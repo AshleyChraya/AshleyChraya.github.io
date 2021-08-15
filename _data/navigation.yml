@@ -3,13 +3,13 @@ main:
   - title: About
     url: /about/
 
-  - title: Talks
+  - title: "Talks"
     url: /talks/    
 
-  - title: Now
+  - title: "Now"
     url: /now/   
     
-  - title: Notes
+  - title: "Notes"
     url: /notes/ 
     
   - title: Literature
