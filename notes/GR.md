@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: General Relativity Notes - Paddy
 modified:
 categories: talks
