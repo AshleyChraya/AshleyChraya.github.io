@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Notes"
 collection: notes
 type: "Tutorial"
 permalink: /notes/GR
