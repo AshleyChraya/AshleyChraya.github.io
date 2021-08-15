@@ -209,7 +209,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: notes
     values:
       layout: single
       author_profile: true
@@ -218,7 +218,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: now
     values:
       layout: single
       author_profile: true
@@ -227,7 +227,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: literature
     values:
       layout: single
       author_profile: true
