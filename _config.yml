@@ -81,11 +81,10 @@ author:
   avatar           : "08-02-2021 (1).jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS Physics, Indian Institute of Science Education and Research (IISER) Mohali"
   location         : "Punjab, India"
-  email            : "ashleychraya@gmail"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "ashleychraya@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
