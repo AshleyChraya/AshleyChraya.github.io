@@ -15,7 +15,7 @@ The purpose of this website is multi-folds, but the primary goal is outreach. In
 
 Hence, I plan to update [Notes]({{ site.url }}/notes/) page with my handwritten and latex-made notes on some of the topics, which interests me. These notes aim to bring together relevant material to better understand the concept and hopefully find some insights. Additionally, I plan to update [Literature]({{ site.url }}/literature/) page with links of notes, books, video lectures etc, and my comments on various topics, which I have found useful.
 
-Finally, I plan to update [Now]({{ site.url }}/now/) with material I am currently studying.
+Finally, I plan to update [Now]({{ site.url }}/now/) page with material I am currently studying.
 
 Personal Philosophy
 ======
