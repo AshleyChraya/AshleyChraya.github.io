@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.3
 ---
 
-Hello, my name is Ashley Chraya. I recently graduated in June 2021 with BS-MS dual degree with majors in physics from the [Indian Institute of Science Education and Research (IISER) Mohali, India](https://www.iisermohali.ac.in/). In broad terms, my research interests include black hole physics, gravitational physics, stellar evolution and cosmology with the focus on testing general relativity.
+Hello, my name is Ashley Chraya. I recently graduated in June 2021 with BS-MS dual degree with majors in physics from the [Indian Institute of Science Education and Research (IISER) Mohali, India](https://www.iisermohali.ac.in/). In broad terms, my research interests include black hole physics, gravitational physics, stellar evolution and cosmology with the focus on testing general relativity. When I am not doing physics, you will find me watching a cricket match or shadow batting. Feel free to contact me to discuss anything related to physics and cricket.
 
 About this website
 ======
