@@ -19,6 +19,8 @@ Hence, I plan to update [Notes]({{ site.url }}/notes/) page with my handwritten 
 
 Finally, I plan to update [Now]({{ site.url }}/now/) page with material I am currently studying.
 
+I plan to keep updating pages for next few months.
+
 Personal Philosophy
 ======
 I think physics is like a big forest with different floras. Firstly, we hover over the forest through a helicopter getting rough ideas of what is going on in what field. Then according to one's interest, one lands at one place to dig deeper up to a certain level, till he/she moves to another region to learn different techniques of digging to better understand that region. Rarely, in this pursuit, one finds a way how this new technique can be used in a better way to explore the older land.
