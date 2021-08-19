@@ -19,7 +19,7 @@ Hence, I plan to update [Notes]({{ site.url }}/notes/) page with my handwritten 
 
 Finally, I plan to update [Now]({{ site.url }}/now/) page with material I am currently studying.
 
-I plan to keep updating pages for next few months.
+I plan to keep updating these pages for next few months.
 
 Personal Philosophy
 ======
