@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashley Chraya"
-  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "photo_2021-09-19_11-54-14.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS Physics, Indian Institute of Science Education and Research (IISER) Mohali"
   location         : "Punjab, India"
   employer         :
