@@ -8,7 +8,7 @@ header:
 ---
 All the standard equations of mathematical physics can be separated and solved in Kerr geometry. ~ S. Chandrasekhar
 
-Hello, my name is Ashley Chraya. I recently graduated in June 2021 with BS-MS dual degree with majors in physics from the [Indian Institute of Science Education and Research (IISER) Mohali, India](https://www.iisermohali.ac.in/). In broad terms, my research interests include black hole physics, gravitational physics, stellar evolution and cosmology with the focus on testing general relativity. That being said, I am very early in my career, and willing to work on just about anything. Infact, in past I have enjoyed working from observational, computational to core theoretical side of physics. When I am not doing physics, you will find me watching a cricket match, shadow batting or listening to punjabi songs.
+Hello, my name is Ashley Chraya. I recently graduated in June 2021 with BS-MS dual degree with majors in physics from the [Indian Institute of Science Education and Research (IISER) Mohali, India](https://www.iisermohali.ac.in/). In broad terms, my research interests include black hole physics, gravitational physics, stellar evolution and cosmology with the focus on testing general relativity. That being said, I am very early in my career, and willing to work on just about anything. Infact, in past I have enjoyed working from observational, computational to core theoretical side of physics. When I am not doing physics, you will find me watching a cricket match, shadow batting or listening to punjabi music.
 
 About this website
 ======
