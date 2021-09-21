@@ -13,7 +13,7 @@ main:
   - title: "Literature"
     url: /literature/
         
-  - title: "Blog"
-    url: /year-archive/
+# - title: "Blog"
+#    url: /year-archive/
 
  
