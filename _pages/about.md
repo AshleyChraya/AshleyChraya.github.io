@@ -8,7 +8,7 @@ header:
 ---
 All the standard equations of mathematical physics can be separated and solved in Kerr geometry. ~ S. Chandrasekhar
 
-Hello, my name is Ashley Chraya. I recently graduated in June 2021 with BS-MS dual degree with majors in physics from the [Indian Institute of Science Education and Research (IISER) Mohali, India](https://www.iisermohali.ac.in/). In broad terms, my research interests include black hole physics, gravitational physics, stellar evolution and cosmology with the focus on testing general relativity. That being said, I am very early in my career, and willing to work on just about anything. Infact, in past I have enjoyed working from observational, computational to core theoretical side of physics. When I am not doing physics, you will find me watching a cricket match, shadow batting or listening to punjabi music.
+Hello, my name is Ashley Chraya. I recently graduated in June 2021 with BS-MS dual degree with majors in physics from the [Indian Institute of Science Education and Research (IISER) Mohali, India](https://www.iisermohali.ac.in/). In broad terms, my research interests lie in the connection between classical black hole physics, multimessenger astronomy, stellar evolution and cosmology. That being said, I am very early in my career, and willing to work on just about anything. Infact, in past I have enjoyed working from observational, computational to core theoretical side of physics. When I am not doing physics, you will find me watching a cricket match, shadow batting or listening to punjabi music.
 
 About this website
 ======
@@ -21,10 +21,6 @@ Hence, I plan to update [Notes]({{ site.url }}/notes/) page with my handwritten 
 Finally, I plan to update [Now]({{ site.url }}/now/) page with material I am currently studying.
 
 I plan to keep updating these pages for next few months.
-
-Personal Philosophy
-======
-I think physics is like a big forest with different floras. Firstly, we hover over the forest through a helicopter getting rough ideas of what is going on in what field. Then according to one's interest, one lands at one place to dig deeper up to a certain level, till he/she moves to another region to learn different techniques of digging to better understand that region. Rarely, in this pursuit, one finds a way how this new technique can be used in a better way to explore the older land.
 
 For more info
 ------
