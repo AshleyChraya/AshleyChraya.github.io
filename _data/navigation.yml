@@ -2,10 +2,7 @@
 main:
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Now"
-    url: /now/   
+    url: /talks/     
     
   - title: "Notes"
     url: /notes/
