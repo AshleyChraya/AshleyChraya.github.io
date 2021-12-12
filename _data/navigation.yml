@@ -8,10 +8,13 @@ main:
     url: /now/   
     
   - title: "Notes"
-    url: /notes/ 
-    
-  - title: "Literature"
+    url: /notes/
+
+  - title: "Codes"
     url: /literature/
+
+  - title: "Resources"
+    url: /resources/
         
 # - title: "Blog"
 #    url: /year-archive/
