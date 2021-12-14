@@ -33,3 +33,4 @@
 [2021-12-14 12:10:19.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 [2021-12-14 12:10:19.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 [2021-12-14 12:10:24.167] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 284
+[2021-12-14 12:10:30.560] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 285
