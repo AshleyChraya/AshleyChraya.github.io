@@ -1,8 +1,9 @@
 ---
 title: "Geodesic Congruences and Raychaudhury Equations"
-collection: notes
-type: "Notes"
-permalink: /notes/2020-08-01-GR-1
+collection: talks
+type: "Poster"
+permalink: /talks/2021-04-23-talk-1
+venue: "IISER Mohali"
 ---
 
-[Poster Presentation.pdf]({{ site.url }}/files/.pdf)
+[Poster Presentation.pdf]({{ site.url }}/files/iiser_m_poster_presentation_raychaudhuri_equation.pdf)
