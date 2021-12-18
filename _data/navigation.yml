@@ -7,8 +7,8 @@ main:
   - title: "Notes"
     url: /notes/
 
-  - title: "Codes"
-    url: /codes/
+  #- title: "Codes"
+   # url: /codes/
 
   #- title: "Resources"
    # url: /resources/
