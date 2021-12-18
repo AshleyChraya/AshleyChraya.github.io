@@ -1,7 +1,7 @@
 ---
 title: "Geodesic Congruences and Raychaudhury Equations"
-collection: notes
-type: "default"
+collection: codes
+type: "Codes"
 permalink: /codes/codepage
 ---
 
