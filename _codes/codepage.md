@@ -1,9 +1,6 @@
 ---
-title: "Geodesic Congruences and Raychaudhury Equations"
-collection: talks
-type: "Poster"
-permalink: /talks/2021-04-23-talk-1
-venue: "IISER Mohali"
+layout: archive
+title: "Constraining parameters of VCG model and finding Hubble Constant"
 ---
 
-[Poster Presentation.pdf]({{ site.url }}/files/iiser_m_poster_presentation_raychaudhuri_equation.pdf)
+[Code Repository](https://github.com/AshleyChraya/HubbleConstant-ConstraintsForVCG)
