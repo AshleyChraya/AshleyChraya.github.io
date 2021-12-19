@@ -7,6 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.codes reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. [Code repo for constraining Cosmological model and finding Hubble Constant through SN Ia and GW merger events](https://github.com/AshleyChraya/HubbleConstant-ConstraintsForVCG)
+2. [Computation of QNMs for Schwarzschild and RN BH](https://github.com/AshleyChraya/QNM_Vritika)
