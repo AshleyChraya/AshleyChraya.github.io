@@ -10,8 +10,8 @@ main:
   #- title: "Codes"
    # url: /codes/
 
-  #- title: "Resources"
-   # url: /resources/
+  - title: "Resources"
+    url: /resources/
         
 # - title: "Blog"
 #    url: /year-archive/
