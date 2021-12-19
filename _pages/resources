@@ -4,7 +4,7 @@ title: "Resources"
 permalink: /resources/
 author_profile: true
 ---
-
+{% include base_path %}
 1. [Tool for finding relation between topics](https://twitter.com/sjay_yayy/status/1422938799571619847)
 2. [All the talks in the Astrophysics world](https://twitter.com/msoaresfurtado/status/1426004370202800128)
 3.  Job application resources
@@ -24,8 +24,3 @@ author_profile: true
 14. [All Astronomy Schools in US](https://twitter.com/astrocrash/status/1435488289465634816)
 15. [Dimensions of Research](https://twitter.com/cesifoti/status/1435635120107556869)
 16. [Personal statements and CV Tips](https://twitter.com/AdeleyeSamuelA/status/1327307759474323461) 
-{% include base_path %}
-
-{% for post in site.resources reversed %}
-  {% include archive-single.html %}
-{% endfor %}
