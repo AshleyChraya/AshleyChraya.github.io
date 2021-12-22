@@ -26,4 +26,5 @@ author_profile: true
 15. [Dimensions of Research](https://twitter.com/cesifoti/status/1435635120107556869)
 16. [Personal statements and CV Tips](https://twitter.com/AdeleyeSamuelA/status/1327307759474323461) 
 17. [Floor's PhD application resources](https://twitter.com/FloorAstro/status/1424698801328205827)
+18. [Fast LAtex](https://twitter.com/mcnees/status/1461893510861365248)
 
