@@ -3,6 +3,10 @@ layout: archive
 title: "Codes"
 permalink: /codes/
 author_profile: true
+header:
+  overlay_image: code.gif
+  overlay_filter: 0.4
+---
 ---
 <img src="{{  site.url  }}/images/code.gif" alt="zigzag"  style="vertical-align:bottom">
 

@@ -4,7 +4,7 @@ title: Homepage
 author_profile: true
 excerpt: "'What we know is a drop, what we don't know is an ocean.' -Isaac Newton"
 header:
-  overlay_image: code.gif
+  overlay_image: BBH.gif
   overlay_filter: 0.4
 ---
 Hello there! I am Ashley Chraya. I recently graduated in June 2021 with a BS-MS dual degree with majors in physics from the [Indian Institute of Science Education and Research (IISER) Mohali, India](https://www.iisermohali.ac.in/). My research interests broadly lie in theoretical and computational relativistic astrophysics and cosmology. That being said, I am very early in my career and willing to work on just about anything in astrophysics. In fact, I have previously enjoyed working from the observational, computational to the fundamental theoretical side of physics. When I am not doing physics, you will find me watching a cricket match, shadow batting, or listening to Punjabi music.
