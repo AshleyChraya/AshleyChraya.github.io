@@ -3,11 +3,8 @@ layout: archive
 title: "Codes"
 permalink: /codes/
 author_profile: true
-header:
-  overlay_image: <img src="{{site.baseurl | prepend: site.url}}images/code.gif" alt="zigzag" />
-  overlay_filter: 0.4
 ---
-
+<img src="{{site.baseurl | prepend: site.url}}images/code.gif" alt="zigzag" />
 {% include base_path %}
 
 1. [Code repo for constraining Cosmological model and finding Hubble Constant through SN Ia and GW merger events](https://github.com/AshleyChraya/HubbleConstant-ConstraintsForVCG)
