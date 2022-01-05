@@ -4,7 +4,8 @@ title: "Codes"
 permalink: /codes/
 author_profile: true
 ---
-<img src="{{site.baseurl | prepend: site.url}}images/code.gif" alt="zigzag" />
+<img src="{{  site.url  }}/images/code.gif" alt="zigzag" />
+
 {% include base_path %}
 
 1. [Code repo for constraining Cosmological model and finding Hubble Constant through SN Ia and GW merger events](https://github.com/AshleyChraya/HubbleConstant-ConstraintsForVCG)
