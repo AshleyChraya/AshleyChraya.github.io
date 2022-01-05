@@ -4,7 +4,7 @@ title: "Codes"
 permalink: /codes/
 author_profile: true
 header:
-  overlay_image: ![] (https://github.com/suhailkakar/suhailkakar/blob/main/code.gif?raw=true)
+  overlay_image: ![](https://github.com/suhailkakar/suhailkakar/blob/main/code.gif?raw=true)
   overlay_filter: 0.4
 ---
 
