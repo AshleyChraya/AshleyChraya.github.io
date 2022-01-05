@@ -4,7 +4,7 @@ title: "Codes"
 permalink: /codes/
 author_profile: true
 ---
-<img src="{{  site.url  }}/images/code.gif" alt="zigzag" />
+<img src="{{  site.url  }}/images/code.gif" alt="zigzag" align="right" />
 
 {% include base_path %}
 
