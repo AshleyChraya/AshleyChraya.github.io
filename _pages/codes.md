@@ -4,9 +4,9 @@ title: "Codes"
 permalink: /codes/
 author_profile: true
 ---
-<img src="{{  site.url  }}/images/code.gif" alt="zigzag" align="right" />
+<img src="{{  site.url  }}/images/code.gif" alt="zigzag"  style="vertical-align:bottom">
 
 {% include base_path %}
-<h3 align="left">
+
 1. [Code repo for constraining Cosmological model and finding Hubble Constant through SN Ia and GW merger events](https://github.com/AshleyChraya/HubbleConstant-ConstraintsForVCG)
 2. [Computation of QNMs for Schwarzschild and RN BH](https://github.com/AshleyChraya/QNM_Vritika)
