@@ -8,7 +8,6 @@ header:
   overlay_filter: 0.4
 ---
 ---
-<img src="{{  site.url  }}/images/code.gif" alt="zigzag"  style="vertical-align:bottom">
 
 {% include base_path %}
 
