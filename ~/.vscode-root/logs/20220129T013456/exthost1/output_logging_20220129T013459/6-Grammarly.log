@@ -69876,3 +69876,106 @@ ResponseError: Request $/getToken failed with message: Unknown or unsupported tr
 }
 1643401495285 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 73
 1643401495559 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 74
+1643401844250 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 167 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401844251 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 180,
+  end: 180,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 166,
+  highlightEnd: 179,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+(node:1403762) UnhandledPromiseRejectionWarning: Error: Socket connection failed: ServerIdleTimeout
+    at GrammarlyClient._connect (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:38903:19)
+    at GrammarlyClient._queueOrSend (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:38978:18)
+    at /root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:38876:18
+    at new Promise (<anonymous>)
+    at GrammarlyClient.send (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:38874:16)
+    at GrammarlyClient.sendWithErrorHandling (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39102:31)
+    at GrammarlyClient.submitOT (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39194:21)
+    at TextGrammarCheckHost.sync (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39943:24)
+    at TextGrammarCheckHost.setText (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39886:19)
+    at Function.update (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39686:28)
+(Use `code --trace-warnings ...` to show where the warning was created)
+(node:1403762) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:1403762) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
