@@ -3,3 +3,4 @@
 [2022-01-29 01:34:58.359] [main] [info] Starting extension host with pid 1403013 (fork() took 17 ms).
 [2022-01-29 01:35:26.532] [main] [info] update#setState checking for updates
 [2022-01-29 01:35:26.533] [main] [info] update#setState idle
+[2022-01-29 01:52:12.704] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: extensionsAssistant/recommendations Length: 101
