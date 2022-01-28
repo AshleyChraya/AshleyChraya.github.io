@@ -65182,3 +65182,4697 @@ ResponseError: Request $/getToken failed with message: Unknown or unsupported tr
 }
 1643401313730 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 121
 1643401314000 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 122
+1643401369013 DEBUG  [TextGrammarCheckHost] (66696c) Hosting file:///root/Github_Repos/AshleyChraya.github.io/_talks/2021-04-23-talk-1.md
+1643401370728 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  {
+    ops: [
+      {
+        insert: '---\n' +
+          'title: "Geodesic Congruences and Raychaudhury Equations"\n' +
+          'collection: talks\n' +
+          'type: "Poster"\n' +
+          'permalink: /talks/2021-04-23-talk-1\n' +
+          'venue: "IISER Mohali"\n' +
+          '---\n' +
+          '\n' +
+          '[Poster Presentation.pdf]({{ site.url }}/files/iiser_m_poster_presentation_raychaudhuri_equation.pdf)\n'
+      },
+      [length]: 1
+    ]
+  },
+  [length]: 1
+]
+1643401371034 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 0
+1643401371210 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 361188,
+  begin: 150,
+  end: 150,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 144,
+  highlightEnd: 150,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 361188,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401403982 DEBUG  [TextGrammarCheckHost] (66696c) Hosting file:///root/Github_Repos/AshleyChraya.github.io/_talks/2022-01-29-poster.md
+1643401405201 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  {
+    ops: [
+      {
+        insert: '---\n' +
+          'title: "Geodesic Congruences and Raychaudhury Equations"\n' +
+          'collection: talks\n' +
+          'type: "Poster"\n' +
+          'permalink: /talks/2021-04-23-talk-1\n' +
+          'venue: "IISER Mohali"\n' +
+          '---\n' +
+          '\n' +
+          '[Poster Presentation.pdf]({{ site.url }}/files/iiser_m_poster_presentation_raychaudhuri_equation.pdf)'
+      },
+      [length]: 1
+    ]
+  },
+  [length]: 1
+]
+1643401405692 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 0
+1643401405696 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 150,
+  end: 150,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 144,
+  highlightEnd: 150,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401406211 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [ { ops: [ [length]: 0 ] }, [length]: 1 ]
+1643401406211 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 150,
+  end: 150,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 144,
+  highlightEnd: 150,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401416272 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 113 }, { delete: 16 }, [length]: 2 ] },
+  [length]: 1
+]
+1643401416273 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 134,
+  end: 134,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 128,
+  highlightEnd: 134,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401416444 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 112 }, { delete: 1 }, [length]: 2 ] },
+  [length]: 1
+]
+1643401416444 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 133,
+  end: 133,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 127,
+  highlightEnd: 133,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401416553 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 1
+1643401416757 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  {
+    ops: [
+      { retain: 112 },
+      { insert: '2022-01-29-poster.md' },
+      [length]: 2
+    ]
+  },
+  [length]: 1
+]
+1643401416757 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 153,
+  end: 153,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 147,
+  highlightEnd: 153,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401416827 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 2
+1643401417101 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 3
+1643401417446 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 131 }, { delete: 1 }, [length]: 2 ] },
+  [length]: 1
+]
+1643401417446 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 152,
+  end: 152,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 146,
+  highlightEnd: 152,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401417686 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 130 }, { delete: 1 }, [length]: 2 ] },
+  [length]: 1
+]
+1643401417686 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 151,
+  end: 151,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 145,
+  highlightEnd: 151,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401417731 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 4
+1643401417886 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 129 }, { delete: 1 }, [length]: 2 ] },
+  [length]: 1
+]
+1643401417886 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 150,
+  end: 150,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 144,
+  highlightEnd: 150,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401418010 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 5
+1643401418283 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 6
+1643401423869 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  {
+    ops: [ { retain: 138 }, { insert: 'N' }, { delete: 12 }, [length]: 3 ]
+  },
+  [length]: 1
+]
+1643401423869 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 139,
+  end: 139,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 139,
+  highlightEnd: 145,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401424054 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 139 }, { insert: 'S' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401424055 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 140,
+  end: 140,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 0,
+  highlightBegin: 140,
+  highlightEnd: 146,
+  highlightText: 'Mohali',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 137, e: 151 },
+    highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 14,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 150,
+    end: 150,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 0,
+    highlightBegin: 144,
+    highlightEnd: 150,
+    highlightText: 'Mohali',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 137, e: 151 },
+      highlights: [ { s: 7, e: 13, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 14
+  },
+  [__v_skip]: true
+}
+1643401424152 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 7
+1643401424267 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 140 }, { insert: 'S' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401424446 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 8
+1643401424488 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 141 }, { insert: 'S' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401424724 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 9
+1643401424999 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 10
+1643401425953 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 142 }, { insert: '-' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401426236 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 11
+1643401427281 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 143 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401427562 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 12
+1643401427799 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 144 }, { insert: 'I' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401427950 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 145 }, { insert: 'S' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401428090 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 13
+1643401428230 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 146 }, { insert: 'R' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401428364 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 14
+1643401428638 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 15
+1643401428731 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 147 }, { insert: 'O' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401429006 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 16
+1643401429126 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 148 }, { insert: ',' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401429405 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 17
+1643401429724 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 149 }, { insert: 'I' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401429902 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 150 }, { insert: 'I' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401430005 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 18
+1643401430037 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 151 }, { insert: 'S' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401430272 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 152 }, { insert: 'E' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401430281 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 19
+1643401430499 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 153 }, { insert: 'R' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401430555 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 20
+1643401430835 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 21
+1643401430953 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 154 }, { insert: '-' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401431228 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 22
+1643401431305 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 155 }, { insert: 'K' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401431553 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 156 }, { insert: 'o' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401431583 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 23
+1643401431763 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 157 }, { insert: 'l' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401431863 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 24
+1643401431962 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 158 }, { insert: 'k' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401432098 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 159 }, { insert: 'a' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401432145 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 25
+1643401432262 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 160 }, { insert: 't' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401432390 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 161 }, { insert: 'a' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401432418 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 26
+1643401432691 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 27
+1643401436886 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 162,
+  end: 162,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 27,
+  highlightBegin: 149,
+  highlightEnd: 162,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 144, e: 163 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 237,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 162,
+    end: 162,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 27,
+    highlightBegin: 149,
+    highlightEnd: 162,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 144, e: 163 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 237
+  },
+  [__v_skip]: true
+}
+1643401450074 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  {
+    ops: [
+      { retain: 216 },
+      { insert: 'NSSS_conf' },
+      { delete: 3 },
+      { retain: 2 },
+      { insert: 'ence' },
+      { delete: 2 },
+      { retain: 7 },
+      { delete: 35 },
+      [length]: 8
+    ]
+  },
+  [length]: 1
+]
+1643401450075 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 162,
+  end: 162,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 27,
+  highlightBegin: 149,
+  highlightEnd: 162,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 144, e: 163 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 237,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 162,
+    end: 162,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 27,
+    highlightBegin: 149,
+    highlightEnd: 162,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 144, e: 163 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 237
+  },
+  [__v_skip]: true
+}
+1643401450360 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 28
+1643401473601 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  {
+    ops: [
+      { retain: 12 },
+      { delete: 9 },
+      { retain: 1 },
+      { delete: 37 },
+      [length]: 4
+    ]
+  },
+  [length]: 1
+]
+1643401473601 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 116,
+  end: 116,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 27,
+  highlightBegin: 103,
+  highlightEnd: 116,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 144, e: 163 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 237,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 162,
+    end: 162,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 27,
+    highlightBegin: 149,
+    highlightEnd: 162,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 144, e: 163 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 237
+  },
+  [__v_skip]: true
+}
+1643401473875 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 116,
+  end: 116,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 27,
+  highlightBegin: 103,
+  highlightEnd: 116,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 144, e: 163 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 237,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 162,
+    end: 162,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 27,
+    highlightBegin: 149,
+    highlightEnd: 162,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 144, e: 163 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 237
+  },
+  [__v_skip]: true
+}
+1643401473878 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 29
+1643401473888 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 13 }, { insert: 'o' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401474051 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 14 }, { insert: 'n' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401474167 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 30
+1643401474216 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 15 }, { insert: 's' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401474445 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 31
+1643401474456 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 16 }, { insert: 't' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401474643 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 17 }, { insert: 'r' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401474718 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 32
+1643401474781 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 18 }, { insert: 'a' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401474994 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 33
+1643401475037 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 19 }, { insert: 'i' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401475224 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 20 }, { insert: 'n' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401475269 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 34
+1643401475345 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 21 }, { insert: 't' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401475544 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 35
+1643401475597 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 22 }, { insert: 's' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401475723 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 23 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401475818 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 36
+1643401475952 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 24 }, { insert: 'o' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401476094 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 37
+1643401476146 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 25 }, { insert: 'n' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401476347 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 26 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401476374 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 38
+1643401476512 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 27 }, { insert: 'v' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401476651 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 39
+1643401476657 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 28 }, { insert: 'a' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401476864 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 29 }, { insert: 'r' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401476925 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 40
+1643401477032 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 30 }, { insert: 'i' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401477152 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 31 }, { insert: 'a' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401477204 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 41
+1643401477478 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 42
+1643401477707 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 32 }, { insert: 'b' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401477953 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 33 }, { insert: 'l' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401477984 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 43
+1643401478071 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 34 }, { insert: 'e' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401478224 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 35 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401478262 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 44
+1643401478540 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 45
+1643401478912 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 36 }, { insert: 'C' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401479077 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 37 }, { insert: 'h' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401479192 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 46
+1643401479228 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 38 }, { insert: 'a' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401479416 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 39 }, { insert: 'p' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401479535 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 47
+1643401479643 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 40 }, { insert: 'l' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401479809 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 48
+1643401479989 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 41 }, { insert: 'y' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401480089 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 49
+1643401480312 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 42 }, { insert: 'g' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401480369 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 50
+1643401480400 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 43 }, { insert: 'i' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401480495 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 146,
+  end: 146,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 133,
+  highlightEnd: 146,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401480612 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 44 }, { insert: 'n' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401480612 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 147,
+  end: 147,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 134,
+  highlightEnd: 147,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401480648 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 51
+1643401480808 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 45 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401480808 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 148,
+  end: 148,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 135,
+  highlightEnd: 148,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401480926 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 52
+1643401480989 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 46 }, { insert: 'g' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401480989 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 149,
+  end: 149,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 136,
+  highlightEnd: 149,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401481124 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 47 }, { insert: 'a' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401481124 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 150,
+  end: 150,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 137,
+  highlightEnd: 150,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401481206 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 53
+1643401481308 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 48 }, { insert: 's' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401481308 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 151,
+  end: 151,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 138,
+  highlightEnd: 151,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401481483 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 49 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401481484 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 152,
+  end: 152,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 139,
+  highlightEnd: 152,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401481539 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 54
+1643401481701 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 50 }, { insert: 'm' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401481701 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 153,
+  end: 153,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 140,
+  highlightEnd: 153,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401481813 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 55
+1643401481885 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 51 }, { insert: 'o' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401481885 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 154,
+  end: 154,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 141,
+  highlightEnd: 154,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401482009 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 52 }, { insert: 'd' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401482009 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 155,
+  end: 155,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 142,
+  highlightEnd: 155,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401482090 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 56
+1643401482099 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 53 }, { insert: 'e' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401482099 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 156,
+  end: 156,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 143,
+  highlightEnd: 156,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401482280 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 54 }, { insert: 'l' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401482281 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 157,
+  end: 157,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 144,
+  highlightEnd: 157,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401482373 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 57
+1643401482649 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 58
+1643401488996 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 55 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401488996 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 158,
+  end: 158,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 145,
+  highlightEnd: 158,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401489269 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 59
+1643401489288 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 56 }, { insert: 'f' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401489289 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 159,
+  end: 159,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 146,
+  highlightEnd: 159,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401489501 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 57 }, { insert: 'r' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401489502 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 160,
+  end: 160,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 147,
+  highlightEnd: 160,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401489565 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 60
+1643401489642 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 58 }, { insert: 'o' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401489642 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 161,
+  end: 161,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 148,
+  highlightEnd: 161,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401489837 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 59 }, { insert: 'm' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401489838 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 162,
+  end: 162,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 149,
+  highlightEnd: 162,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401489840 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 61
+1643401490033 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 60 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401490034 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 163,
+  end: 163,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 150,
+  highlightEnd: 163,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401490115 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 62
+1643401490329 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 61 }, { insert: 'G' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401490329 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 164,
+  end: 164,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 151,
+  highlightEnd: 164,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401490393 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 63
+1643401490521 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 62 }, { insert: 'W' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401490521 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 165,
+  end: 165,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 152,
+  highlightEnd: 165,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401490667 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 64
+1643401490944 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 65
+1643401491777 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 63 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401491777 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 166,
+  end: 166,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 153,
+  highlightEnd: 166,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401492052 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 66
+1643401493305 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 64 }, { insert: 'm' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401493305 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 167,
+  end: 167,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 154,
+  highlightEnd: 167,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401493452 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 65 }, { insert: 'e' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401493452 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 168,
+  end: 168,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 155,
+  highlightEnd: 168,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401493525 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 66 }, { insert: 'r' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401493525 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 169,
+  end: 169,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 156,
+  highlightEnd: 169,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401493583 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 67
+1643401493770 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 67 }, { insert: 'g' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401493770 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 170,
+  end: 170,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 157,
+  highlightEnd: 170,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401493860 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 68
+1643401493896 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 68 }, { insert: 'e' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401493897 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 171,
+  end: 171,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 158,
+  highlightEnd: 171,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401494034 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 69 }, { insert: 'r' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401494034 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 172,
+  end: 172,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 159,
+  highlightEnd: 172,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401494133 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 69
+1643401494194 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 70 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401494194 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 173,
+  end: 173,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 160,
+  highlightEnd: 173,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401494309 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 71 }, { insert: 'e' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401494309 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 174,
+  end: 174,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 161,
+  highlightEnd: 174,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401494436 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 70
+1643401494521 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 72 }, { insert: 'v' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401494521 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 175,
+  end: 175,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 162,
+  highlightEnd: 175,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401494609 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 73 }, { insert: 'e' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401494610 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 176,
+  end: 176,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 163,
+  highlightEnd: 176,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401494736 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 71
+1643401494797 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 74 }, { insert: 'n' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401494798 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 177,
+  end: 177,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 164,
+  highlightEnd: 177,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401494905 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 75 }, { insert: 't' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401494905 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 178,
+  end: 178,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 165,
+  highlightEnd: 178,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401495011 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 72
+1643401495193 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 76 }, { insert: 's' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401495193 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'ClosingPunct',
+  pid: 1259050,
+  rid: 1259050,
+  sid: 440542,
+  begin: 179,
+  end: 179,
+  text: '',
+  group: 'Punctuation',
+  pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+  phash: 'C89218D9445426EBEF5AAD03704A9A29',
+  pversion: '1.0.16811',
+  rev: 50,
+  highlightBegin: 166,
+  highlightEnd: 179,
+  highlightText: 'IISER-Kolkata',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 127, e: 146 },
+    highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Punctuation',
+    groupDescription: 'Corrects missing and misused punctuation',
+    rank: 40,
+    outcome: 'Correctness',
+    outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+    outcomeRank: 10,
+    bundle: 'Fix spelling and grammar',
+    bundleRank: 20
+  },
+  categoryHuman: 'Closing punctuation',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 345,
+  raw: {
+    hidden: true,
+    category: 'ClosingPunct',
+    pid: 1259050,
+    rid: 1259050,
+    sid: 440542,
+    begin: 146,
+    end: 146,
+    text: '',
+    group: 'Punctuation',
+    pname: 'Punctuation/ClosingPunct/NoPunctuation/WithQuotes',
+    phash: 'C89218D9445426EBEF5AAD03704A9A29',
+    pversion: '1.0.16811',
+    rev: 50,
+    highlightBegin: 133,
+    highlightEnd: 146,
+    highlightText: 'IISER-Kolkata',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 127, e: 146 },
+      highlights: [ { s: 5, e: 18, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Punctuation',
+      groupDescription: 'Corrects missing and misused punctuation',
+      rank: 40,
+      outcome: 'Correctness',
+      outcomeDescription: 'Corrects misspellings, grammatical errors, missing and misused punctuation. Checks for natural phrasing and good word choice.',
+      outcomeRank: 10,
+      bundle: 'Fix spelling and grammar',
+      bundleRank: 20
+    },
+    categoryHuman: 'Closing punctuation',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 345
+  },
+  [__v_skip]: true
+}
+1643401495285 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 73
+1643401495559 DEBUG  [TextGrammarCheckHost] (66696c) [sync] Remote Text: 74
