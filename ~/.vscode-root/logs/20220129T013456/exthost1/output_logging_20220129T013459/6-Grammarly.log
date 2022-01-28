@@ -69979,3 +69979,104 @@ ResponseError: Request $/getToken failed with message: Unknown or unsupported tr
 (Use `code --trace-warnings ...` to show where the warning was created)
 (node:1403762) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
 (node:1403762) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+1643401973709 DEBUG  [TextGrammarCheckHost] (66696c) ChangeSet [
+  { ops: [ { retain: 185 }, { insert: ' ' }, [length]: 2 ] },
+  [length]: 1
+]
+1643401973710 WARN  [GrammarlyDiagnosticsService] (toDiagnostics) Missing title {
+  hidden: true,
+  category: 'Wordiness',
+  pid: 940232,
+  rid: 940232,
+  sid: 278672,
+  begin: 137,
+  end: 158,
+  text: 'covers topics such as',
+  group: 'Style',
+  pname: 'Style/Wordiness/InflatedPhrases/ZauberinInflatedPhrase',
+  phash: '504414C59CDD6A63548E266B0F30E17E',
+  pversion: '1.0.16811',
+  rev: 180,
+  highlightBegin: 137,
+  highlightEnd: 158,
+  highlightText: 'covers topics such as',
+  replacements: [ [length]: 0 ],
+  transformJson: {
+    context: { s: 123, e: 168 },
+    highlights: [ { s: 14, e: 35, type: 'main' }, [length]: 1 ]
+  },
+  impact: 'advanced',
+  extra_properties: {},
+  cardLayout: {
+    category: 'General',
+    group: 'Conciseness',
+    groupDescription: 'Eliminates wordiness and redundancy',
+    rank: 70,
+    outcome: 'Clarity',
+    outcomeDescription: 'Identifies confusing, hard-to-read and overlong sentences. Eliminates wordiness and redundancy.',
+    outcomeRank: 20,
+    bundle: 'Reduce wordiness',
+    bundleRank: 60
+  },
+  categoryHuman: 'Wordy sentences',
+  cost: 1,
+  view: 'priority',
+  inline: 'not_inline',
+  action: 'alert',
+  id: 1008,
+  raw: {
+    hidden: true,
+    category: 'Wordiness',
+    pid: 940232,
+    rid: 940232,
+    sid: 278672,
+    begin: 137,
+    end: 158,
+    text: 'covers topics such as',
+    group: 'Style',
+    pname: 'Style/Wordiness/InflatedPhrases/ZauberinInflatedPhrase',
+    phash: '504414C59CDD6A63548E266B0F30E17E',
+    pversion: '1.0.16811',
+    rev: 180,
+    highlightBegin: 137,
+    highlightEnd: 158,
+    highlightText: 'covers topics such as',
+    replacements: [ [length]: 0 ],
+    transformJson: {
+      context: { s: 123, e: 168 },
+      highlights: [ { s: 14, e: 35, type: 'main' }, [length]: 1 ]
+    },
+    impact: 'advanced',
+    extra_properties: {},
+    cardLayout: {
+      category: 'General',
+      group: 'Conciseness',
+      groupDescription: 'Eliminates wordiness and redundancy',
+      rank: 70,
+      outcome: 'Clarity',
+      outcomeDescription: 'Identifies confusing, hard-to-read and overlong sentences. Eliminates wordiness and redundancy.',
+      outcomeRank: 20,
+      bundle: 'Reduce wordiness',
+      bundleRank: 60
+    },
+    categoryHuman: 'Wordy sentences',
+    cost: 1,
+    view: 'priority',
+    inline: 'not_inline',
+    action: 'alert',
+    id: 1008
+  },
+  [__v_skip]: true
+}
+(node:1403762) UnhandledPromiseRejectionWarning: Error: Socket connection failed: ServerIdleTimeout
+    at GrammarlyClient._connect (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:38903:19)
+    at GrammarlyClient._queueOrSend (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:38978:18)
+    at /root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:38876:18
+    at new Promise (<anonymous>)
+    at GrammarlyClient.send (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:38874:16)
+    at GrammarlyClient.sendWithErrorHandling (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39102:31)
+    at GrammarlyClient.submitOT (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39194:21)
+    at TextGrammarCheckHost.sync (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39943:24)
+    at TextGrammarCheckHost.setText (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39886:19)
+    at Function.update (/root/.vscode/extensions/znck.grammarly-0.14.0/dist/server/index.js:39686:28)
+(node:1403762) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
