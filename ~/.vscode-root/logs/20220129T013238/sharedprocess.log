@@ -1,0 +1,8 @@
+[2022-01-29 01:32:52.594] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-01-29 01:33:01.070] [sharedprocess] [info] Starting worker process with pid 1401377 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-29 01:33:05.620] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /root/Github_Repos/AshleyChraya.github.io/~/.vscode-root/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.1.5
+[2022-01-29 01:33:07.122] [sharedprocess] [info] Extensions is already requested to install ms-python.vscode-pylance
+[2022-01-29 01:33:10.447] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.718121ef-f64c-4a14-8562-9f1a3d86df00: ms-python.vscode-pylance
+[2022-01-29 01:33:10.475] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.vscode-pylance-2022.1.5
+[2022-01-29 01:33:10.479] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-01-29 01:33:10.483] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
