@@ -1,6 +1,7 @@
 ---
 title: "Unacademic"
 collection: resources
+type: "Resources"
 permalink: /resources/resource1
 ---
 
