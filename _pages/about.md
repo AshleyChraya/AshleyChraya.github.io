@@ -15,5 +15,5 @@ The purpose of this website is multi-folds, but the primary goal is outreach.
 
 In the past five years at IISER Mohali, I encountered many instances where I felt some chunks in books that are not very obvious to understand. In hindsight, it required many more bits and pieces to be studied before that particular concept could sink into my brain. If someone had given me direction on where to look in these specific instances, it would have saved me time and effort. 
 
-Hence, I plan to update [Notes]({{ site.url }}/notes/) page with my handwritten and latex-made notes on some of the topics, which interests me. Additionally, I plan to update [Talks]({{site.url}}/talks) page with links to talks/presentations I presented, [Codes]({{site.url}}/codes) page with codes I have used in my research, [Resources]({{ site.url }}/resources/) page with links to useful webpages.
+Hence, I plan to update [Notes]({{ site.url }}/notes/) page with my handwritten and latex-made notes on some of the topics, which interests me. Additionally, I plan to update [Talks]({{site.url}}/talks) page with links to talks I presented, [Codes]({{site.url}}/codes) page with codes I have used in my research, [Resources]({{ site.url }}/resources/) page with links to useful webpages.
 
