@@ -3,10 +3,7 @@ layout: archive
 title: "Codes"
 permalink: /codes/
 author_profile: true
-excerpt: " 
-
-
-"
+excerpt: " "
 header:
   overlay_image: code.gif
   overlay_filter: 0.4
