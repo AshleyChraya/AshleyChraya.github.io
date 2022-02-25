@@ -4,10 +4,6 @@ collection: resources
 permalink: /resources/misc
 ---
 
-Some miscellaneous links
-
-Twitter bookmarks
-======
-lets check
+[Poster Presentation.pdf]({{ site.url }}/files/iiser_m_poster_presentation_raychaudhuri_equation.pdf)
 
 
