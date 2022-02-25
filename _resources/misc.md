@@ -1,11 +1,13 @@
 ---
-layout: archive
-title: "Resources"
-permalink: /resources/
-author_profile: true
+title: "Miscellaneous"
+collection: talks
+permalink: /resources/misc
 ---
-{% include base_path %}
 
+Some miscellaneous links
+
+Twitter bookmarks
+======
 1. [Tool for finding the relation between topics](https://twitter.com/sjay_yayy/status/1422938799571619847)
 2. [All the talks in the Astrophysics world](https://twitter.com/msoaresfurtado/status/1426004370202800128)
 3.  Job application resources<br />
