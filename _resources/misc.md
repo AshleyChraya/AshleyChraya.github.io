@@ -1,6 +1,5 @@
 ---
 title: "Miscellaneous"
-collection: resources
 permalink: /resources/misc
 ---
 
