@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Resources"
-permalink: /resources/
+title: "Random"
+permalink: /random/
 author_profile: true
 ---
 {% include base_path %}
