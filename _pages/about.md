@@ -9,9 +9,9 @@ header:
 ---
 Hello there! My name is Ashley Chraya, and I recently graduated with a BS-MS dual degree in physics from the [Indian Institute of Science Education and Research (IISER) Mohali, India](https://www.iisermohali.ac.in/). My research interests are primarily focused on gravitational waves and black hole physics. That being said, I am very early in my career and willing to work on just about anything in theoretical and computational astrophysics. Previously, I have worked in astrophysical inferences using GWs data analysis tools, cosmological parameter estimation using Bayesian inference, cosmology with GWs, field-theoretic aspects of gravitational fields, the post-merger phase of BBH mergers and the dynamics of astrophysical magnetic fields. 
 
-I am also interested in the application of machine learning and deep learning techniques in astrophysics. I also have a strong interest in Python programming (thanks to my mentor). My experience in Python programming includes data analysis tools, computer vision models, machine learning and deep learning models using various Python libraries and frameworks. I also enjoy exploring new technologies and methods to improve my skills and broaden my horizons.
+I am also interested in the application of machine learning and deep learning techniques in astrophysics. I also have a strong interest in Python programming (thanks to my mentor). My experience in Python programming includes data analysis tools, computer vision models, machine learning and deep learning models using various Python libraries and frameworks.
 
-When I am not doing physics or coding, you will find me watching a cricket match, shadow batting, or listening to Punjabi music.
+When I am not doing physics, you will find me watching a cricket match, shadow batting, or listening to Punjabi music.
 
 
 Publications
