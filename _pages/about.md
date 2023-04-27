@@ -22,9 +22,7 @@ Publications
 [Variable Chaplygin Gas: Constraints from Supernovae and Gravitational Wave Merger Events](https://arxiv.org/abs/2206.14192) is currently under review in Journal of Astrophysics and Astronomy. 
 
 
-
-
-
 I plan to update [Notes]({{ site.url }}/notes/) page with my handwritten and latex-made notes on some of the topics, which interests me. Additionally, I plan to update [Talks]({{site.url}}/talks) page with links to talks I presented, [Codes]({{site.url}}/codes) page with codes I have used in my research, [Resources]({{ site.url }}/resources/) page with links to useful webpages.
 
-Thank you for visiting my webpage, and please feel free to contact me if you are interested in collaborating.
+<p><b>Thank you for visiting my webpage, and please feel free to contact me if you are interested in collaborating.</b></p>
+
