@@ -20,7 +20,7 @@ Publications
 
 [The Gamma-ray Bursts fundamental plane correlation as a cosmological tool](https://academic.oup.com/mnras/article-abstract/518/2/2201/6750240?login=false) is published in MNRAS. Preprint: [arXiv](https://arxiv.org/abs/2209.08675)
 
-[Variable Chaplygin Gas: Constraints from Supernovae and Gravitational Wave Merger Events](https://arxiv.org/abs/2206.14192) is currently under review in Journal of Astrophysics and Astronomy. 
+[Variable Chaplygin Gas: Constraints from Supernovae and Gravitational Wave Merger Events](https://arxiv.org/abs/2206.14192) is published in Journal of Astrophysics and Astronomy. 
 
 **Thank you for visiting my webpage, and please feel free to contact me if you are interested in collaborating.**
 
